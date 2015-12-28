@@ -1,6 +1,6 @@
 # icalfilter
 
-CLI tools for filtering ical components and lines
+CLI for filtering ical components and lines
 
 ## USAGE
 
